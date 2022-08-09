@@ -1,0 +1,6 @@
+# Para efetuar pesquisa a um numero
+phoneinfoga scan -n <numero>
+
+# Para utilizar browser
+phoneinfoga serve -p 8080 
+abrir a url ip.do.kali:8080 no browser
